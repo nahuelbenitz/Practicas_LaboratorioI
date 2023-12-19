@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698378725 source:c:\users\nbenitez\documents\documentos importantes\facultad\1er cuatrimestre\laboratorio i\ejercicios avanzados\examen viejo\ejerciciomatriz\funciones.cpp
+	<iostream>
+	"Funciones.h"
+
+1698378943 c:\users\nbenitez\documents\documentos importantes\facultad\1er cuatrimestre\laboratorio i\ejercicios avanzados\examen viejo\ejerciciomatriz\funciones.h
+
+1698378991 source:c:\users\nbenitez\documents\documentos importantes\facultad\1er cuatrimestre\laboratorio i\ejercicios avanzados\examen viejo\ejerciciomatriz\main.cpp
+	<iostream>
+	"Funciones.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698382345 source:c:\users\nbenitez\documents\documentos importantes\facultad\1er cuatrimestre\laboratorio i\ejercicios avanzados\modelo examen\ejerciciomatriz\mimatriz.cpp
+	<iostream>
+	"miMatriz.h"
+
+1698382387 c:\users\nbenitez\documents\documentos importantes\facultad\1er cuatrimestre\laboratorio i\ejercicios avanzados\modelo examen\ejerciciomatriz\mimatriz.h
+
+1698382366 source:c:\users\nbenitez\documents\documentos importantes\facultad\1er cuatrimestre\laboratorio i\ejercicios avanzados\modelo examen\ejerciciomatriz\main.cpp
+	<iostream>
+	"miMatriz.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1698372993 source:c:\users\nbenitez\documents\documentos importantes\facultad\1er cuatrimestre\laboratorio i\ejercicios avanzados\ejercicios vectores y matrices\ejercicio3\funciones3.cpp
+	<iostream>
+	"Funciones3.h"
+
+1698372696 c:\users\nbenitez\documents\documentos importantes\facultad\1er cuatrimestre\laboratorio i\ejercicios avanzados\ejercicios vectores y matrices\ejercicio3\funciones3.h
+	<iostream>
+
+1698373431 source:c:\users\nbenitez\documents\documentos importantes\facultad\1er cuatrimestre\laboratorio i\ejercicios avanzados\ejercicios vectores y matrices\ejercicio3\main.cpp
+	<iostream>
+	"Funciones3.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1698447300 source:c:\users\nbenitez\documents\documentos importantes\facultad\1er cuatrimestre\laboratorio i\examen\examen integrador - nahuel benitez\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1698446308 c:\users\nbenitez\documents\documentos importantes\facultad\1er cuatrimestre\laboratorio i\examen\examen integrador - nahuel benitez\funciones.h
+	<iostream>
+
+1698446742 source:c:\users\nbenitez\documents\documentos importantes\facultad\1er cuatrimestre\laboratorio i\examen\examen integrador - nahuel benitez\main.cpp
+	<iostream>
+	"funciones.h"
+
